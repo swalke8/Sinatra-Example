@@ -1,0 +1,28 @@
+body
+{
+background-color:#C0C0C0;
+}
+
+#header {
+  background: -moz-linear-gradient(left,  #380000,  #C0C0C0);
+  color:#E0E0E0;
+  padding-left:1em;
+ }
+
+#body {
+  /*
+  border-style:outset;
+  border-width:5px;
+  padding-top:3px;
+  font-family:Arial,Helvetica,sans-serif;
+  border-color:#A0A0A0;
+  */
+}
+
+#input_message {
+/* Make a design */
+}
+
+#message {
+/* Make a design */
+}

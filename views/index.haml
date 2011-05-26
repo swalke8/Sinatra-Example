@@ -1,0 +1,10 @@
+%html
+  %head
+    %title Title of Webpage
+    %link(rel="stylesheet" href="css/index.css")
+  %body
+    #header
+      %h1 Title that is displayed
+    #body
+      =haml(:message_box, :layout=>false)
+      =haml(:message, :layout=>false)
